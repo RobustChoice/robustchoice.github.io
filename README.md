@@ -1,2 +1,2 @@
-# robustchoice.github.io
-Robust Choice open-source projects pages
+# Robust Choice pages
+You can add pages using MD (markdown) format.
