@@ -1,2 +1,2 @@
 # Robust Choice pages
-You can add pages using MD (markdown) format.
+This repository contains help & other pages related to RC products.
